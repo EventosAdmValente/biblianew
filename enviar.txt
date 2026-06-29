@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m Initial commit BíbliaNew AI
+git branch -M main
+git remote add origin https://github.com/EventosAdmValente/BibliaNew
+git push -u origin main

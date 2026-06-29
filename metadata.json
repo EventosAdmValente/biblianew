@@ -1,0 +1,10 @@
+{
+  "name": "BíbliaNew AI",
+  "description": "Uma plataforma avançada de estudo bíblico potencializada por IA, oferecendo chats interativos, sessões ao vivo e voz em tempo real.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
